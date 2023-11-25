@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<total_sales>
+<date>
+	<date_value>2023-11-20</date_value>
+	<total_sales>5</total_sales>
+</date>
+<date>
+	<date_value>2023-11-22</date_value>
+	<total_sales>3</total_sales>
+</date>
+<date>
+	<date_value>2023-11-21</date_value>
+	<total_sales>7</total_sales>
+</date>
+<date>
+	<date_value>2023-11-24</date_value>
+	<total_sales>10</total_sales>
+</date>
+</total_sales>

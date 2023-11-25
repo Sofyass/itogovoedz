@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<max_availability>
+<product>
+	<name>Макароны</name>
+	<seller>
+		<last_name>Сидоров</last_name>
+		<quantity>15</quantity>
+	</seller>
+</product>
+<product>
+	<name>Колбаса</name>
+	<seller>
+		<last_name>Иванов</last_name>
+		<quantity>16</quantity>
+	</seller>
+</product>
+<product>
+	<name>Молоко</name>
+	<seller>
+		<last_name>Черных</last_name>
+		<quantity>130</quantity>
+	</seller>
+</product>
+</max_availability>
